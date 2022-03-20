@@ -1,0 +1,2 @@
+- `SYSTEM_ENV=prod cdk deploy` for prod
+- `SYSTEM_ENV=dev cdk deploy` for dev
